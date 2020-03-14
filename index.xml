@@ -78,6 +78,14 @@
     </item>
     
     <item>
+      <title>PSYCH239: Neural Networks and Machine Learning</title>
+      <link>https://eneftci.github.io/courses/psych239wq20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/courses/psych239wq20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Terrain Classification with a Reservoir-Based Network of Spiking Neurons</title>
       <link>https://eneftci.github.io/publication/zou-etal-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -98,6 +106,14 @@
       <link>https://eneftci.github.io/publication/neftci-etal-19/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://eneftci.github.io/publication/neftci-etal-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>COGS110: Quantitative Methods for Cognitive Scientists</title>
+      <link>https://eneftci.github.io/courses/cogsci110sq19/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/courses/cogsci110sq19/</guid>
       <description></description>
     </item>
     
@@ -166,6 +182,14 @@
     </item>
     
     <item>
+      <title>PSYCH205C: Artificial Intelligence and Problem Solving</title>
+      <link>https://eneftci.github.io/courses/psych239wq19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/courses/psych239wq19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Independent Component Analysis Using RRAMs</title>
       <link>https://eneftci.github.io/publication/fouda-etal-18-a/</link>
       <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
@@ -214,6 +238,14 @@
     </item>
     
     <item>
+      <title>PSYCH 269: Brain-Inspired Learning Machines</title>
+      <link>https://eneftci.github.io/courses/psych269fq17/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/courses/psych269fq17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Event-Driven Random Back-Propagation: Enabling Neuromorphic Deep Learning Machines</title>
       <link>https://eneftci.github.io/publication/neftci-etal-17-a/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
@@ -230,10 +262,26 @@
     </item>
     
     <item>
+      <title>COGS110: Quantitative Methods for Cognitive Sciences</title>
+      <link>https://eneftci.github.io/courses/cogsci110sq17/</link>
+      <pubDate>Mon, 27 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/courses/cogsci110sq17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Contrastive hebbian learning with random feedback weights</title>
       <link>https://eneftci.github.io/publication/detorakis-etal-17/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       <guid>https://eneftci.github.io/publication/detorakis-etal-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSYCH 269: Neuromorphic Engineering</title>
+      <link>https://eneftci.github.io/courses/psych269sq17/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/courses/psych269sq17/</guid>
       <description></description>
     </item>
     
@@ -266,6 +314,14 @@
       <link>https://eneftci.github.io/publication/pedroni-etal-16-a/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
       <guid>https://eneftci.github.io/publication/pedroni-etal-16-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSYCH268: Brain-Inspired Learning Machines</title>
+      <link>https://eneftci.github.io/courses/psych268fq16/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/courses/psych268fq16/</guid>
       <description></description>
     </item>
     
@@ -303,28 +359,10 @@
     
     <item>
       <title>Deep Continuous Local Learning</title>
-      <link>https://eneftci.github.io/courses/sgtheory/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://eneftci.github.io/courses/sgtheory/</guid>
-      <description>&lt;p&gt;A growing body of work underlines striking similarities between biological neural networks and recurrent, binary neural networks. A relatively smaller body of work, however, addresses the similarities between learning dynamics employed in deep artificial neural networks and synaptic plasticity in spiking neural networks. The challenge preventing this is largely caused by the discrepancy between the dynamical properties of synaptic plasticity and the requirements for gradient backpropagation. Learning algorithms that approximate gradient backpropagation using local error functions can overcome this challenge. Here, we introduce Deep Continuous Local Learning (DECOLLE), a spiking neural network equipped with local error functions for online learning with no memory overhead for computing gradients. DECOLLE is capable of learning deep spatio-temporal representations from spikes relying solely on local information, making it compatible with neurobiology and neuromorphic hardware. Synaptic plasticity rules are derived systematically from user-defined cost functions and neural dynamics by leveraging existing autodifferentiation methods of machine learning frameworks. We benchmark our approach on the event-based neuromorphic dataset N-MNIST and DvsGesture, on which DECOLLE performs comparably to the state-of-the-art. DECOLLE networks provide continuously learning machines that are relevant to biology and supportive of event-based, low-power computer vision architectures matching the accuracies of conventional computers on tasks where temporal precision and speed are essential.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Deep Continuous Local Learning</title>
       <link>https://eneftci.github.io/project/sgtheory/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://eneftci.github.io/project/sgtheory/</guid>
       <description>&lt;p&gt;A growing body of work underlines striking similarities between biological neural networks and recurrent, binary neural networks. A relatively smaller body of work, however, addresses the similarities between learning dynamics employed in deep artificial neural networks and synaptic plasticity in spiking neural networks. The challenge preventing this is largely caused by the discrepancy between the dynamical properties of synaptic plasticity and the requirements for gradient backpropagation. Learning algorithms that approximate gradient backpropagation using local error functions can overcome this challenge. Here, we introduce Deep Continuous Local Learning (DECOLLE), a spiking neural network equipped with local error functions for online learning with no memory overhead for computing gradients. DECOLLE is capable of learning deep spatio-temporal representations from spikes relying solely on local information, making it compatible with neurobiology and neuromorphic hardware. Synaptic plasticity rules are derived systematically from user-defined cost functions and neural dynamics by leveraging existing autodifferentiation methods of machine learning frameworks. We benchmark our approach on the event-based neuromorphic dataset N-MNIST and DvsGesture, on which DECOLLE performs comparably to the state-of-the-art. DECOLLE networks provide continuously learning machines that are relevant to biology and supportive of event-based, low-power computer vision architectures matching the accuracies of conventional computers on tasks where temporal precision and speed are essential.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Stochastic Spiking Neural Networks</title>
-      <link>https://eneftci.github.io/courses/ssm/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://eneftci.github.io/courses/ssm/</guid>
-      <description>&lt;p&gt;One ongoing challenge in brain-inspired (neuromorphic) computing is to devise general and computationally efficient models of inference and learning which are compatible with the spatial and temporal constraints of the brain. This research topic investigates learning rules that uses modulated membrane-based synaptic plasticity for learning deep representations in brain-inspired (neuromorphic), stochastic computing hardware. Recent studies have shown that synaptic unreliability is a robust and sufficient mechanism for inducing the stochasticity observed in cortex. We introduced the Synaptic Sampling Machine (SSM), a stochastic neural network model that uses synaptic unreliability as a means to stochasticity for sampling.&lt;/p&gt;
 </description>
     </item>
     
@@ -335,6 +373,38 @@
       <guid>https://eneftci.github.io/project/ssm/</guid>
       <description>&lt;p&gt;One ongoing challenge in brain-inspired (neuromorphic) computing is to devise general and computationally efficient models of inference and learning which are compatible with the spatial and temporal constraints of the brain. This research topic investigates learning rules that uses modulated membrane-based synaptic plasticity for learning deep representations in brain-inspired (neuromorphic), stochastic computing hardware. Recent studies have shown that synaptic unreliability is a robust and sufficient mechanism for inducing the stochasticity observed in cortex. We introduced the Synaptic Sampling Machine (SSM), a stochastic neural network model that uses synaptic unreliability as a means to stochasticity for sampling.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>PSYCH 269: Neural Networks for Reinforcement Learning</title>
+      <link>https://eneftci.github.io/courses/psych269wq19/</link>
+      <pubDate>Sun, 27 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/courses/psych269wq19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSYCH 269: Neuromorphic Engineering</title>
+      <link>https://eneftci.github.io/courses/psych269wq18/</link>
+      <pubDate>Sun, 27 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/courses/psych269wq18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSYCH169: Neural Processing in Artificial Minds</title>
+      <link>https://eneftci.github.io/courses/psych169sq16/</link>
+      <pubDate>Sun, 27 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/courses/psych169sq16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PSYCH205C: Computational Statistics</title>
+      <link>https://eneftci.github.io/courses/psych205csq16/</link>
+      <pubDate>Sun, 27 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/courses/psych205csq16/</guid>
+      <description></description>
     </item>
     
     <item>
