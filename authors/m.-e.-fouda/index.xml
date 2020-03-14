@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. E. Fouda | NMI</title>
+    <link>https://eneftci.github.io/authors/m.-e.-fouda/</link>
+      <atom:link href="https://eneftci.github.io/authors/m.-e.-fouda/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. E. Fouda</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_lanczos_2.png</url>
+      <title>M. E. Fouda</title>
+      <link>https://eneftci.github.io/authors/m.-e.-fouda/</link>
+    </image>
+    
+    <item>
+      <title>Independent Component Analysis Using RRAMs</title>
+      <link>https://eneftci.github.io/publication/fouda-etal-18-a/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/fouda-etal-18-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

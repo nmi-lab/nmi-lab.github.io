@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DR Muir | NMI</title>
+    <link>https://eneftci.github.io/authors/dr-muir/</link>
+      <atom:link href="https://eneftci.github.io/authors/dr-muir/index.xml" rel="self" type="application/rss+xml" />
+    <description>DR Muir</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Aug 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_lanczos_2.png</url>
+      <title>DR Muir</title>
+      <link>https://eneftci.github.io/authors/dr-muir/</link>
+    </image>
+    
+    <item>
+      <title>Noise robustness and spatially patterned synchronization of cortical oscillators</title>
+      <link>https://eneftci.github.io/publication/landsman-etal-12/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/landsman-etal-12/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

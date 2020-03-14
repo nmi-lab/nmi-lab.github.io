@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | NMI</title>
+    <link>https://eneftci.github.io/publication_types/6/</link>
+      <atom:link href="https://eneftci.github.io/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_lanczos_2.png</url>
+      <title>6</title>
+      <link>https://eneftci.github.io/publication_types/6/</link>
+    </image>
+    
+    <item>
+      <title>Spiking Neural Networks for Inference and Learning: A Memristor-based Design Perspective</title>
+      <link>https://eneftci.github.io/publication/fouda-etal-19/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/fouda-etal-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuromorphic Engineering</title>
+      <link>https://eneftci.github.io/publication/neftci-etal-14-a/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/neftci-etal-14-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic Construction of Finite State Automata Using VLSI Spiking Neurons</title>
+      <link>https://eneftci.github.io/publication/neftci-etal-12-a/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/neftci-etal-12-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

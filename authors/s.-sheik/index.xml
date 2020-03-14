@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Sheik | NMI</title>
+    <link>https://eneftci.github.io/authors/s.-sheik/</link>
+      <atom:link href="https://eneftci.github.io/authors/s.-sheik/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Sheik</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_lanczos_2.png</url>
+      <title>S. Sheik</title>
+      <link>https://eneftci.github.io/authors/s.-sheik/</link>
+    </image>
+    
+    <item>
+      <title>Synaptic sampling in hardware spiking neural networks</title>
+      <link>https://eneftci.github.io/publication/sheik-etal-16/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/sheik-etal-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PyNCS: a kernel for high-level configuration and definition of neuromorphic electronic systems</title>
+      <link>https://eneftci.github.io/publication/stefanini-etal-14/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/stefanini-etal-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic configuration and automatic tuning of neuromorphic systems</title>
+      <link>https://eneftci.github.io/publication/sheik-etal-11/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/sheik-etal-11/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

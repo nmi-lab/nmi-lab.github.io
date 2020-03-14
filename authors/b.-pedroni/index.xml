@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B. Pedroni | NMI</title>
+    <link>https://eneftci.github.io/authors/b.-pedroni/</link>
+      <atom:link href="https://eneftci.github.io/authors/b.-pedroni/index.xml" rel="self" type="application/rss+xml" />
+    <description>B. Pedroni</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_lanczos_2.png</url>
+      <title>B. Pedroni</title>
+      <link>https://eneftci.github.io/authors/b.-pedroni/</link>
+    </image>
+    
+    <item>
+      <title>Event-Driven Contrastive Divergence for Spiking Neuromorphic Systems</title>
+      <link>https://eneftci.github.io/publication/neftci-etal-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/neftci-etal-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Restricted Boltzmann Machines and Continuous-time Contrastive Divergence in Spiking Neuromorphic Systems</title>
+      <link>https://eneftci.github.io/publication/neftci-etal-13/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/neftci-etal-13/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

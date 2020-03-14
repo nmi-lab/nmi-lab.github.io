@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TD Bartley | NMI</title>
+    <link>https://eneftci.github.io/authors/td-bartley/</link>
+      <atom:link href="https://eneftci.github.io/authors/td-bartley/index.xml" rel="self" type="application/rss+xml" />
+    <description>TD Bartley</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_lanczos_2.png</url>
+      <title>TD Bartley</title>
+      <link>https://eneftci.github.io/authors/td-bartley/</link>
+    </image>
+    
+    <item>
+      <title>Contrastive hebbian learning with random feedback weights</title>
+      <link>https://eneftci.github.io/publication/detorakis-etal-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/detorakis-etal-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrastive hebbian learning with random feedback weights</title>
+      <link>https://eneftci.github.io/publication/detorakis-etal-17/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/detorakis-etal-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

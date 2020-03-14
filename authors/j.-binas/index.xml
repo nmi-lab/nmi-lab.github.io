@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Binas | NMI</title>
+    <link>https://eneftci.github.io/authors/j.-binas/</link>
+      <atom:link href="https://eneftci.github.io/authors/j.-binas/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Binas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_lanczos_2.png</url>
+      <title>J. Binas</title>
+      <link>https://eneftci.github.io/authors/j.-binas/</link>
+    </image>
+    
+    <item>
+      <title>Synthesizing cognition in neuromorphic electronic systems</title>
+      <link>https://eneftci.github.io/publication/neftci-etal-13-a/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/neftci-etal-13-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic Construction of Finite State Automata Using VLSI Spiking Neurons</title>
+      <link>https://eneftci.github.io/publication/neftci-etal-12-a/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/neftci-etal-12-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

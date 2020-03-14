@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emre Neftci | NMI</title>
+    <link>https://eneftci.github.io/authors/emre-neftci/</link>
+      <atom:link href="https://eneftci.github.io/authors/emre-neftci/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emre Neftci</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_lanczos_2.png</url>
+      <title>Emre Neftci</title>
+      <link>https://eneftci.github.io/authors/emre-neftci/</link>
+    </image>
+    
+    <item>
+      <title>Terrain Classification with a Reservoir-Based Network of Spiking Neurons</title>
+      <link>https://eneftci.github.io/publication/zou-etal-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/zou-etal-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embodied event-driven random backpropagation</title>
+      <link>https://eneftci.github.io/publication/kaiser-etal-19-a/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/kaiser-etal-19-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inherent Weight Normalization in Stochastic Neural Networks</title>
+      <link>https://eneftci.github.io/publication/detorakis-etal-19-a/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/detorakis-etal-19-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic neuromorphic learning machines for weakly labeled data</title>
+      <link>https://eneftci.github.io/publication/neftci-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/neftci-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuromorphic adaptations of restricted boltzmann machines and deep belief networks</title>
+      <link>https://eneftci.github.io/publication/pedroni-etal-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/pedroni-etal-13/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

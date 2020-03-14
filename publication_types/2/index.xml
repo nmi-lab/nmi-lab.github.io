@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | NMI</title>
+    <link>https://eneftci.github.io/publication_types/2/</link>
+      <atom:link href="https://eneftci.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_lanczos_2.png</url>
+      <title>2</title>
+      <link>https://eneftci.github.io/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Surrogate Gradient Learning in Spiking Neural Networks: Bringing the Power of Gradient-Based Optimization to Spiking Neural Networks</title>
+      <link>https://eneftci.github.io/publication/neftci-etal-19/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/neftci-etal-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reinforcement Learning in Artificial and Biological Systems</title>
+      <link>https://eneftci.github.io/publication/neftci-averbeck-19/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/neftci-averbeck-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrastive hebbian learning with random feedback weights</title>
+      <link>https://eneftci.github.io/publication/detorakis-etal-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/detorakis-etal-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embodied event-driven random backpropagation</title>
+      <link>https://eneftci.github.io/publication/kaiser-etal-19-a/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/kaiser-etal-19-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory-Efficient Synaptic Connectivity for Spike-Timing-Dependent Plasticity</title>
+      <link>https://eneftci.github.io/publication/pedroni-etal-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/pedroni-etal-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Independent Component Analysis Using RRAMs</title>
+      <link>https://eneftci.github.io/publication/fouda-etal-18-a/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/fouda-etal-18-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synaptic Plasticity for Deep Continuous Local Learning</title>
+      <link>https://eneftci.github.io/publication/kaiser-etal-18/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/kaiser-etal-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data and Power Efficient Intelligence with Neuromorphic Learning Machines</title>
+      <link>https://eneftci.github.io/publication/neftci-18/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/neftci-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural and Synaptic Array Transceiver: A Brain-Inspired Computing Framework for Embedded Learning</title>
+      <link>https://eneftci.github.io/publication/detorakis-etal-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/detorakis-etal-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event-Driven Random Back-Propagation: Enabling Neuromorphic Deep Learning Machines</title>
+      <link>https://eneftci.github.io/publication/neftci-etal-17-a/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/neftci-etal-17-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Training a Probabilistic Graphical Model With Resistive Switching Electronic Synapses</title>
+      <link>https://eneftci.github.io/publication/eryilmaz-etal-16/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/eryilmaz-etal-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memristor-based neural networks: Synaptic versus neuronal stochasticity</title>
+      <link>https://eneftci.github.io/publication/naous-etal-16/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/naous-etal-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Synapses Enable Efficient Brain-Inspired Learning Machines</title>
+      <link>https://eneftci.github.io/publication/neftci-etal-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/neftci-etal-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning of Chunking Sequences in Cognition and Behavior</title>
+      <link>https://eneftci.github.io/publication/fonollosa-etal-15-a/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/fonollosa-etal-15-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of calibration transfer strategies between Metal Oxide gas sensor arrays</title>
+      <link>https://eneftci.github.io/publication/fonollosa-etal-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/fonollosa-etal-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PyNCS: a kernel for high-level configuration and definition of neuromorphic electronic systems</title>
+      <link>https://eneftci.github.io/publication/stefanini-etal-14/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/stefanini-etal-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event-Driven Contrastive Divergence for Spiking Neuromorphic Systems</title>
+      <link>https://eneftci.github.io/publication/neftci-etal-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/neftci-etal-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesizing cognition in neuromorphic electronic systems</title>
+      <link>https://eneftci.github.io/publication/neftci-etal-13-a/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/neftci-etal-13-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noise robustness and spatially patterned synchronization of cortical oscillators</title>
+      <link>https://eneftci.github.io/publication/landsman-etal-12/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/landsman-etal-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic State and Parameter Estimation applied to Neuromorphic Systems</title>
+      <link>https://eneftci.github.io/publication/neftci-etal-12/</link>
+      <pubDate>Sun, 01 Jul 2012 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/neftci-etal-12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A systematic method for configuring VLSI networks of spiking neurons</title>
+      <link>https://eneftci.github.io/publication/neftci-etal-11/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/neftci-etal-11/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

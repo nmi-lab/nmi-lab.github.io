@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | NMI</title>
+    <link>https://eneftci.github.io/project/</link>
+      <atom:link href="https://eneftci.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_lanczos_2.png</url>
+      <title>Projects</title>
+      <link>https://eneftci.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Deep Continuous Local Learning</title>
+      <link>https://eneftci.github.io/project/sgtheory/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/project/sgtheory/</guid>
+      <description>&lt;p&gt;A growing body of work underlines striking similarities between biological neural networks and recurrent, binary neural networks. A relatively smaller body of work, however, addresses the similarities between learning dynamics employed in deep artificial neural networks and synaptic plasticity in spiking neural networks. The challenge preventing this is largely caused by the discrepancy between the dynamical properties of synaptic plasticity and the requirements for gradient backpropagation. Learning algorithms that approximate gradient backpropagation using local error functions can overcome this challenge. Here, we introduce Deep Continuous Local Learning (DECOLLE), a spiking neural network equipped with local error functions for online learning with no memory overhead for computing gradients. DECOLLE is capable of learning deep spatio-temporal representations from spikes relying solely on local information, making it compatible with neurobiology and neuromorphic hardware. Synaptic plasticity rules are derived systematically from user-defined cost functions and neural dynamics by leveraging existing autodifferentiation methods of machine learning frameworks. We benchmark our approach on the event-based neuromorphic dataset N-MNIST and DvsGesture, on which DECOLLE performs comparably to the state-of-the-art. DECOLLE networks provide continuously learning machines that are relevant to biology and supportive of event-based, low-power computer vision architectures matching the accuracies of conventional computers on tasks where temporal precision and speed are essential.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Stochastic Spiking Neural Networks</title>
+      <link>https://eneftci.github.io/project/ssm/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/project/ssm/</guid>
+      <description>&lt;p&gt;One ongoing challenge in brain-inspired (neuromorphic) computing is to devise general and computationally efficient models of inference and learning which are compatible with the spatial and temporal constraints of the brain. This research topic investigates learning rules that uses modulated membrane-based synaptic plasticity for learning deep representations in brain-inspired (neuromorphic), stochastic computing hardware. Recent studies have shown that synaptic unreliability is a robust and sufficient mechanism for inducing the stochasticity observed in cortex. We introduced the Synaptic Sampling Machine (SSM), a stochastic neural network model that uses synaptic unreliability as a means to stochasticity for sampling.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

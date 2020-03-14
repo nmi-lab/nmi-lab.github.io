@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. J. Douglas | NMI</title>
+    <link>https://eneftci.github.io/authors/r.-j.-douglas/</link>
+      <atom:link href="https://eneftci.github.io/authors/r.-j.-douglas/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. J. Douglas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_lanczos_2.png</url>
+      <title>R. J. Douglas</title>
+      <link>https://eneftci.github.io/authors/r.-j.-douglas/</link>
+    </image>
+    
+    <item>
+      <title>Synthesizing cognition in neuromorphic electronic systems</title>
+      <link>https://eneftci.github.io/publication/neftci-etal-13-a/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/neftci-etal-13-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A systematic method for configuring VLSI networks of spiking neurons</title>
+      <link>https://eneftci.github.io/publication/neftci-etal-11/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/neftci-etal-11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>State-Dependent Sensory Processing in Networks of VLSI Spiking Neurons</title>
+      <link>https://eneftci.github.io/publication/neftci-etal-10/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/neftci-etal-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contraction Properties of VLSI Cooperative Competitive Neural Networks of Spiking Neurons</title>
+      <link>https://eneftci.github.io/publication/neftci-etal-08/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/neftci-etal-08/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

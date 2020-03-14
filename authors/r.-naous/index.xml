@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Naous | NMI</title>
+    <link>https://eneftci.github.io/authors/r.-naous/</link>
+      <atom:link href="https://eneftci.github.io/authors/r.-naous/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Naous</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_lanczos_2.png</url>
+      <title>R. Naous</title>
+      <link>https://eneftci.github.io/authors/r.-naous/</link>
+    </image>
+    
+    <item>
+      <title>Inherently Stochastic Spiking Neurons for Probabilistic Neural Computation</title>
+      <link>https://eneftci.github.io/publication/al-shedivat-etal-15-b/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/al-shedivat-etal-15-b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

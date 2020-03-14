@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>7 | NMI</title>
+    <link>https://eneftci.github.io/publication_types/7/</link>
+      <atom:link href="https://eneftci.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    <description>7</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_lanczos_2.png</url>
+      <title>7</title>
+      <link>https://eneftci.github.io/publication_types/7/</link>
+    </image>
+    
+    <item>
+      <title>Towards VLSI Spiking Neuron Assemblies as General-Purpose Processors</title>
+      <link>https://eneftci.github.io/publication/neftci-10/</link>
+      <pubDate>Wed, 01 Dec 2010 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/neftci-10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Study of a Quantum Plaquette Model on a Triangular Lattice</title>
+      <link>https://eneftci.github.io/publication/neftci-06/</link>
+      <pubDate>Mon, 01 May 2006 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/neftci-06/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

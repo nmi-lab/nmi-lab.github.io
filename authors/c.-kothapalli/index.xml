@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Kothapalli | NMI</title>
+    <link>https://eneftci.github.io/authors/c.-kothapalli/</link>
+      <atom:link href="https://eneftci.github.io/authors/c.-kothapalli/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Kothapalli</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_lanczos_2.png</url>
+      <title>C. Kothapalli</title>
+      <link>https://eneftci.github.io/authors/c.-kothapalli/</link>
+    </image>
+    
+    <item>
+      <title>Synaptic sampling in hardware spiking neural networks</title>
+      <link>https://eneftci.github.io/publication/sheik-etal-16/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/sheik-etal-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E Neftci | NMI</title>
+    <link>https://eneftci.github.io/authors/e-neftci/</link>
+      <atom:link href="https://eneftci.github.io/authors/e-neftci/index.xml" rel="self" type="application/rss+xml" />
+    <description>E Neftci</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_lanczos_2.png</url>
+      <title>E Neftci</title>
+      <link>https://eneftci.github.io/authors/e-neftci/</link>
+    </image>
+    
+    <item>
+      <title>Spiking Neural Networks for Inference and Learning: A Memristor-based Design Perspective</title>
+      <link>https://eneftci.github.io/publication/fouda-etal-19/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/fouda-etal-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural and Synaptic Array Transceiver: A Brain-Inspired Computing Framework for Embedded Learning</title>
+      <link>https://eneftci.github.io/publication/detorakis-etal-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/detorakis-etal-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forward Table-Based Presynaptic Event-Triggered Spike-Timing-Dependent Plasticity</title>
+      <link>https://eneftci.github.io/publication/pedroni-etal-16-a/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/pedroni-etal-16-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning of Chunking Sequences in Cognition and Behavior</title>
+      <link>https://eneftci.github.io/publication/fonollosa-etal-15-a/</link>
+      <pubDate>Sun, 01 Nov 2015 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/fonollosa-etal-15-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of calibration transfer strategies between Metal Oxide gas sensor arrays</title>
+      <link>https://eneftci.github.io/publication/fonollosa-etal-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/fonollosa-etal-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Noise robustness and spatially patterned synchronization of cortical oscillators</title>
+      <link>https://eneftci.github.io/publication/landsman-etal-12/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/landsman-etal-12/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

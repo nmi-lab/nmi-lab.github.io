@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S Marco | NMI</title>
+    <link>https://eneftci.github.io/authors/s-marco/</link>
+      <atom:link href="https://eneftci.github.io/authors/s-marco/index.xml" rel="self" type="application/rss+xml" />
+    <description>S Marco</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_lanczos_2.png</url>
+      <title>S Marco</title>
+      <link>https://eneftci.github.io/authors/s-marco/</link>
+    </image>
+    
+    <item>
+      <title>Evaluation of calibration transfer strategies between Metal Oxide gas sensor arrays</title>
+      <link>https://eneftci.github.io/publication/fonollosa-etal-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/fonollosa-etal-15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

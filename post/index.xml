@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | NMI</title>
+    <link>https://eneftci.github.io/post/</link>
+      <atom:link href="https://eneftci.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Mar 2020 17:21:59 -0700</lastBuildDate>
+    <image>
+      <url>https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_lanczos_2.png</url>
+      <title>Posts</title>
+      <link>https://eneftci.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>New Article: Signal Processing Magazine on Surrogate Gradient Learning</title>
+      <link>https://eneftci.github.io/post/neftci_etal19_spm/</link>
+      <pubDate>Fri, 13 Mar 2020 17:21:59 -0700</pubDate>
+      <guid>https://eneftci.github.io/post/neftci_etal19_spm/</guid>
+      <description>&lt;p&gt;Spiking neural networks (SNNs) are nature&amp;rsquo;s versatile solution to fault-tolerant, energy-efficient signal processing. To translate these benefits into hardware, a growing number of neuromorphic spiking NN processors have attempted to emulate biological NNs. These developments have created an imminent need for methods and tools that enable such systems to solve real-world signal processing problems. Like conventional NNs, SNNs can be trained on real, domain-specific data; however, their training requires the overcoming of a number of challenges linked to their binary and dynamical nature. This article elucidates step-by-step the problems typically encountered when training SNNs and guides the reader through the key concepts of synaptic plasticity and data-driven learning in the spiking setting. Accordingly, it gives an overview of existing approaches and provides an introduction to surrogate gradient (SG) methods, specifically, as a particularly flexible and efficient method to overcome the aforementioned challenges.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

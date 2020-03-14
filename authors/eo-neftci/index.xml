@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EO Neftci | NMI</title>
+    <link>https://eneftci.github.io/authors/eo-neftci/</link>
+      <atom:link href="https://eneftci.github.io/authors/eo-neftci/index.xml" rel="self" type="application/rss+xml" />
+    <description>EO Neftci</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_lanczos_2.png</url>
+      <title>EO Neftci</title>
+      <link>https://eneftci.github.io/authors/eo-neftci/</link>
+    </image>
+    
+    <item>
+      <title>Contrastive hebbian learning with random feedback weights</title>
+      <link>https://eneftci.github.io/publication/detorakis-etal-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/detorakis-etal-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Recurrent Neural Network Based Model of Predictive Smooth Pursuit Eye Movement in Primates</title>
+      <link>https://eneftci.github.io/publication/kashyap-etal-18/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/kashyap-etal-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic synapses as resource for efficient deep learning machines</title>
+      <link>https://eneftci.github.io/publication/neftci-17/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/neftci-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event-Driven Random Back-Propagation: Enabling Neuromorphic Deep Learning Machines</title>
+      <link>https://eneftci.github.io/publication/neftci-etal-17-a/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/neftci-etal-17-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event-driven Random Back-Propagation: Enabling Neuromorphic Deep Learning Machines</title>
+      <link>https://eneftci.github.io/publication/neftci-etal-17/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/neftci-etal-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrastive hebbian learning with random feedback weights</title>
+      <link>https://eneftci.github.io/publication/detorakis-etal-17/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/detorakis-etal-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memristor-based neural networks: Synaptic versus neuronal stochasticity</title>
+      <link>https://eneftci.github.io/publication/naous-etal-16/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/naous-etal-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conversion of Artificial Recurrent Neural Networks to Spiking Neural Networks for Low-power Neuromorphic Hardware</title>
+      <link>https://eneftci.github.io/publication/diehl-etal-16/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/diehl-etal-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TrueHappiness: Neuromorphic Emotion Recognition on TrueNorth</title>
+      <link>https://eneftci.github.io/publication/diehl-etal-16-a/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/diehl-etal-16-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuromorphic Architectures with Electronic Synapses</title>
+      <link>https://eneftci.github.io/publication/eryilmaz-etal-16-a/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/eryilmaz-etal-16-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic synaptic plasticity with memristor crossbar arrays</title>
+      <link>https://eneftci.github.io/publication/naous-etal-16-a/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/naous-etal-16-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Synapses Enable Efficient Brain-Inspired Learning Machines</title>
+      <link>https://eneftci.github.io/publication/neftci-etal-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/neftci-etal-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
