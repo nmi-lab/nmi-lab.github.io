@@ -5,12 +5,22 @@
     <link>https://eneftci.github.io/project/</link>
       <atom:link href="https://eneftci.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_box_2.png</url>
       <title>Projects</title>
       <link>https://eneftci.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Scalable Neuromorphic Learning Machines</title>
+      <link>https://eneftci.github.io/project/career16/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/project/career16/</guid>
+      <description>&lt;p&gt;Machine learning algorithms based on artificial neural networks significantly advanced our ability to solve human-centric cognitive tasks at or above human proficiency. Neuromorphic hardware that emulate the biological processes of the brain on a physical, electronic substrate are emerging as ultra low-power alternatives for performing such tasks where adaptability and autonomy are critical. However, neuromorphic hardware lacks general and efficient inference and learning models of the type that empower artificial neural networks, while being compatible with the spatial and temporal constraints of the brain. This research will bridge isolated fields of machine learning and neuromorphic engineering, and address the energetic and performance merits of computing under physical constraints on communication, precision, retention and failures. The solutions sought to meet these challenges will outline the principles for designing continuously learning hardware, resistant to soft errors and failures of future and emerging computing and memory technologies.This interdisciplinary effort will bring a multifaceted skill set to students and researchers alike, and impact many domains of embedded computing, such as brain implants for detecting and alleviating neurological conditions, implantable prosthetics, assistive robots capable of learning and performing human-level cognitive tasks, as well as defense and surveillance related workloads. To encourage young generations to this approach, the PI will 1) organize hands-on workshops, 2) initiate a student-driven project for developing educational tools targeted for teaching K-12 students the building blocks of spike-based deep learning, and 3) offer public video and lab-based courses on neuromorphic intelligence, including hands-on experiments with cutting edge neuromorphic hardware for students.&lt;/p&gt;
+&lt;p&gt;The proposed approach will study the stochastic nature of biological neurons and synapses to provide a blueprint for inference and learning machines compatible with the digital and mixed-signal neuromorphic hardware. The goals of this vertically-integrated project will be achieved by devising: 1) Spike-based algorithms guided by statistical machine learning theory that operate on information that is locally available to the underlying physical and neural processes that achieve or surpass the performance of equivalent learning algorithms in deep artificial neural networks; 2) Dedicated scalable neuromorphic hardware architectures for ultra low-power, continuously learning, which are key to adaptive behavior in embedded real-time behaving systems; 3) Rules governing the organization of attention and working memory in the brain using insights obtained from neural networks models equipped with dynamic feedback loops. In tandem with the breakthroughs in deep recurrent neural networks, this project aims to create unprecedented transfer of knowledge, sparking the foundations for novel computers that proactively interpret and learn from real-world data, solve novel problems using what they learned, and operate with the efficiency and proficiency of the human brain.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Deep Continuous Local Learning</title>
@@ -22,30 +32,20 @@
     </item>
     
     <item>
-      <title>Loihi Embedded Plasticity Dynamics for Deep Continuous Local Learning</title>
-      <link>https://eneftci.github.io/project/loihi19/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://eneftci.github.io/project/loihi19/</guid>
-      <description>&lt;p&gt;Recent breakthroughs in deep neural networks and deep reinforcement learning in a wide variety of cognitively relevant tasks prompts the question whether the ingredients of their success are compatible with neurobiology and neuromorphic hardware. Recent work in three-factor synaptic plasticity rules suggests that synaptic plasticity dynamics are compatible with gradient-based learning, provided that credit can be assigned to hidden neurons. Our preliminary work shows that local errors computed from layer-wise loss functions can approximate credit in deep layers and enable spiking neurons to learn complex tasks, outperforming existing spike-based BPTT methods in learning speed and accuracy, while relying on spatial complexity linear in the number of neurons. The resulting learning rule is local and largely compatible with the Loihi architecture. Our team will showcase variations of this strategy  in the Intel Loihi hardware and demonstrate them on suitable computer vision and reinforcement learning benchmarks using the Dynamic Vision Sensor.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Scalable Neuromorphic Learning Machines</title>
-      <link>https://eneftci.github.io/project/career16/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://eneftci.github.io/project/career16/</guid>
-      <description>&lt;p&gt;Machine learning algorithms based on artificial neural networks significantly advanced our ability to solve human-centric cognitive tasks at or above human proficiency. Neuromorphic hardware that emulate the biological processes of the brain on a physical, electronic substrate are emerging as ultra low-power alternatives for performing such tasks where adaptability and autonomy are critical. However, neuromorphic hardware lacks general and efficient inference and learning models of the type that empower artificial neural networks, while being compatible with the spatial and temporal constraints of the brain. This research will bridge isolated fields of machine learning and neuromorphic engineering, and address the energetic and performance merits of computing under physical constraints on communication, precision, retention and failures. The solutions sought to meet these challenges will outline the principles for designing continuously learning hardware, resistant to soft errors and failures of future and emerging computing and memory technologies.This interdisciplinary effort will bring a multifaceted skill set to students and researchers alike, and impact many domains of embedded computing, such as brain implants for detecting and alleviating neurological conditions, implantable prosthetics, assistive robots capable of learning and performing human-level cognitive tasks, as well as defense and surveillance related workloads. To encourage young generations to this approach, the PI will 1) organize hands-on workshops, 2) initiate a student-driven project for developing educational tools targeted for teaching K-12 students the building blocks of spike-based deep learning, and 3) offer public video and lab-based courses on neuromorphic intelligence, including hands-on experiments with cutting edge neuromorphic hardware for students.&lt;/p&gt;
-&lt;p&gt;The proposed approach will study the stochastic nature of biological neurons and synapses to provide a blueprint for inference and learning machines compatible with the digital and mixed-signal neuromorphic hardware. The goals of this vertically-integrated project will be achieved by devising: 1) Spike-based algorithms guided by statistical machine learning theory that operate on information that is locally available to the underlying physical and neural processes that achieve or surpass the performance of equivalent learning algorithms in deep artificial neural networks; 2) Dedicated scalable neuromorphic hardware architectures for ultra low-power, continuously learning, which are key to adaptive behavior in embedded real-time behaving systems; 3) Rules governing the organization of attention and working memory in the brain using insights obtained from neural networks models equipped with dynamic feedback loops. In tandem with the breakthroughs in deep recurrent neural networks, this project aims to create unprecedented transfer of knowledge, sparking the foundations for novel computers that proactively interpret and learn from real-world data, solve novel problems using what they learned, and operate with the efficiency and proficiency of the human brain.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Stochastic Spiking Neural Networks</title>
       <link>https://eneftci.github.io/project/ssm/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://eneftci.github.io/project/ssm/</guid>
       <description>&lt;p&gt;One ongoing challenge in brain-inspired (neuromorphic) computing is to devise general and computationally efficient models of inference and learning which are compatible with the spatial and temporal constraints of the brain. This research topic investigates learning rules that uses modulated membrane-based synaptic plasticity for learning deep representations in brain-inspired (neuromorphic), stochastic computing hardware. Recent studies have shown that synaptic unreliability is a robust and sufficient mechanism for inducing the stochasticity observed in cortex. We introduced the Synaptic Sampling Machine (SSM), a stochastic neural network model that uses synaptic unreliability as a means to stochasticity for sampling.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Loihi Embedded Plasticity Dynamics for Deep Continuous Local Learning</title>
+      <link>https://eneftci.github.io/project/loihi19/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/project/loihi19/</guid>
+      <description>&lt;p&gt;Recent breakthroughs in deep neural networks and deep reinforcement learning in a wide variety of cognitively relevant tasks prompts the question whether the ingredients of their success are compatible with neurobiology and neuromorphic hardware. Recent work in three-factor synaptic plasticity rules suggests that synaptic plasticity dynamics are compatible with gradient-based learning, provided that credit can be assigned to hidden neurons. Our preliminary work shows that local errors computed from layer-wise loss functions can approximate credit in deep layers and enable spiking neurons to learn complex tasks, outperforming existing spike-based BPTT methods in learning speed and accuracy, while relying on spatial complexity linear in the number of neurons. The resulting learning rule is local and largely compatible with the Loihi architecture. Our team will showcase variations of this strategy  in the Intel Loihi hardware and demonstrate them on suitable computer vision and reinforcement learning benchmarks using the Dynamic Vision Sensor.&lt;/p&gt;
 </description>
     </item>
     
