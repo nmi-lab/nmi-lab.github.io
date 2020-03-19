@@ -13,11 +13,22 @@
     </image>
     
     <item>
+      <title>New Article NeurIPS 2019 on Stochastic Neural Networks</title>
+      <link>https://eneftci.github.io/post/detorakis_etal19_neurips/</link>
+      <pubDate>Fri, 13 Mar 2020 17:21:59 -0700</pubDate>
+      <guid>https://eneftci.github.io/post/detorakis_etal19_neurips/</guid>
+      <description>&lt;p&gt;Multiplicative stochasticity such as Dropout improves the robustness and gener- alizability deep neural networks. Here, we further demonstrate that always-on multiplicative stochasticity combined with simple threshold neurons provide a suf- ficient substrate for deep learning machines. We call such models Neural Sampling Machines (NSM). We find that the probability of activation of the NSM exhibits a self-normalizing property that mirrors Weight Normalization, a previously studied mechanism that fulfills many of the features of Batch Normalization in an online fashion. The normalization of activities during training speeds up convergence by preventing internal covariate shift caused by changes in the distribution of inputs. The always-on stochasticity of the NSM confers the following advantages: the network is identical in the inference and learning phases, making the NSM a suitable substrate for continual learning, it can exploit stochasticity inherent to a physical substrate such as analog non-volatile memories for in memory computing, and it is suitable for Monte Carlo sampling, while requiring almost exclusively addition and comparison operations. We demonstrate NSMs on standard classification benchmarks (MNIST and CIFAR) and event-based classification benchmarks (N-MNIST and DVS Gestures). Our results show that NSMs perform comparably or better than conventional artificial neural networks with the same architecture.&lt;/p&gt;
+&lt;p&gt;See &lt;a href=../../publication/detorakis-etal-19-a/ &gt;publication here &lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>New Article: Signal Processing Magazine on Surrogate Gradient Learning</title>
       <link>https://eneftci.github.io/post/neftci_etal19_spm/</link>
       <pubDate>Fri, 13 Mar 2020 17:21:59 -0700</pubDate>
       <guid>https://eneftci.github.io/post/neftci_etal19_spm/</guid>
       <description>&lt;p&gt;Spiking neural networks (SNNs) are nature&amp;rsquo;s versatile solution to fault-tolerant, energy-efficient signal processing. To translate these benefits into hardware, a growing number of neuromorphic spiking NN processors have attempted to emulate biological NNs. These developments have created an imminent need for methods and tools that enable such systems to solve real-world signal processing problems. Like conventional NNs, SNNs can be trained on real, domain-specific data; however, their training requires the overcoming of a number of challenges linked to their binary and dynamical nature. This article elucidates step-by-step the problems typically encountered when training SNNs and guides the reader through the key concepts of synaptic plasticity and data-driven learning in the spiking setting. Accordingly, it gives an overview of existing approaches and provides an introduction to surrogate gradient (SG) methods, specifically, as a particularly flexible and efficient method to overcome the aforementioned challenges.&lt;/p&gt;
+&lt;p&gt;See &lt;a href=../../publication/neftci-etal-19/ &gt;publication here &lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
