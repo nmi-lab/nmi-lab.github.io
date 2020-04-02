@@ -5,11 +5,11 @@
   "theme_color": "#b2ba67",
   "background_color": "#b2ba67",
   "icons": [{
-    "src": "/images/icon_huaf068fd2a804615d5ba52d12e9e0a093_5921_192x192_fill_box_center_2.png",
+    "src": "/images/icon_hu0c7d4e6f174165f8d68ac6ea8a7cc37e_1109_192x192_fill_box_center_2.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/images/icon_huaf068fd2a804615d5ba52d12e9e0a093_5921_512x512_fill_box_center_2.png",
+    "src": "/images/icon_hu0c7d4e6f174165f8d68ac6ea8a7cc37e_1109_512x512_fill_box_center_2.png",
     "sizes": "512x512",
     "type": "image/png"
      }],
