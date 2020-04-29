@@ -21,6 +21,30 @@
     </item>
     
     <item>
+      <title>On-chip Few-shot Learning with Surrogate Gradient Descent on a Neuromorphic Processor</title>
+      <link>https://eneftci.github.io/publication/stewart-etal-20/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/stewart-etal-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Error-triggered Three-Factor Learning Dynamics for Crossbar Arrays</title>
+      <link>https://eneftci.github.io/publication/payvand-etal-20/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/payvand-etal-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synaptic Plasticity for Deep Continuous Local Learning</title>
+      <link>https://eneftci.github.io/publication/kaiser-etal-20/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/kaiser-etal-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>New Article NeurIPS 2019 on Stochastic Neural Networks</title>
       <link>https://eneftci.github.io/post/detorakis_etal19_neurips/</link>
       <pubDate>Fri, 13 Mar 2020 17:21:59 -0700</pubDate>
@@ -49,34 +73,18 @@
     </item>
     
     <item>
-      <title>Error-triggered Three-Factor Learning Dynamics for Crossbar Arrays</title>
-      <link>https://eneftci.github.io/publication/payvand-etal-20/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://eneftci.github.io/publication/payvand-etal-20/</guid>
+      <title>Contact</title>
+      <link>https://eneftci.github.io/contact/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-Speed, Real-Time, Spike-Based Object Tracking and Path Prediction on Google Edge TPU</title>
       <link>https://eneftci.github.io/publication/sengupta-etal-20/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://eneftci.github.io/publication/sengupta-etal-20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>On-chip Few-shot Learning with Surrogate Gradient Descent on a Neuromorphic Processor</title>
-      <link>https://eneftci.github.io/publication/stewart-etal-20/</link>
-      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://eneftci.github.io/publication/stewart-etal-20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://eneftci.github.io/contact/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://eneftci.github.io/contact/</guid>
+      <guid>https://eneftci.github.io/publication/sengupta-etal-20/</guid>
       <description></description>
     </item>
     
@@ -187,7 +195,7 @@
     </item>
     
     <item>
-      <title>Memory-Efficient Synaptic Connectivity for Spike-Timing-Dependent Plasticity</title>
+      <title>Memory-Efficient Synaptic Connectivity for Spike-Timing- Dependent Plasticity</title>
       <link>https://eneftci.github.io/publication/pedroni-etal-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://eneftci.github.io/publication/pedroni-etal-19/</guid>

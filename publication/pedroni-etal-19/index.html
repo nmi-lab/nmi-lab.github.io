@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Spike-Timing-Dependent Plasticity (STDP) is a bio-inspired local incremental weight update rule commonly used for online learning in spike-based neuromorphic systems. In STDP, the intensity of long-term potentiation and depression in synaptic efficacy (weight) between neurons is expressed as a function of the relative timing between pre- and post-synaptic action potentials (spikes), while the polarity of change is dependent on the order (causality) of the spikes. Online STDP weight updates for causal and acausal relative spike times are activated at the onset of post- and pre-synaptic spike events, respectively, implying access to synaptic connectivity both in forward (pre-to-post) and reverse (post-to-pre) directions. Here we study the impact of different arrangements of synaptic connectivity tables on weight storage and STDP updates for large-scale neuromorphic systems. We analyze the memory efficiency for varying degrees of density in synaptic connectivity, ranging from crossbar arrays for full connectivity to pointer-based lookup for sparse connectivity. The study includes comparison of storage and access costs and efficiencies for each memory arrangement, along with a trade-off analysis of the benefits of each data structure depending on application requirements and budget. Finally, we present an alternative formulation of STDP via a delayed causal update mechanism that permits efficient weight access, requiring no more than forward connectivity lookup. We show functional equivalence of the delayed causal updates to the original STDP formulation, with substantial savings in storage and access costs and efficiencies for networks with sparse synaptic connectivity as typically encountered in large-scale models in computational neuroscience.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://eneftci.github.io/publication/pedroni-etal-19/">
@@ -230,12 +230,12 @@
   
   <meta property="og:site_name" content="NMI">
   <meta property="og:url" content="https://eneftci.github.io/publication/pedroni-etal-19/">
-  <meta property="og:title" content="Memory-Efficient Synaptic Connectivity for Spike-Timing-Dependent Plasticity | NMI">
-  <meta property="og:description" content=""><meta property="og:image" content="https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_box_2.png">
+  <meta property="og:title" content="Memory-Efficient Synaptic Connectivity for Spike-Timing- Dependent Plasticity | NMI">
+  <meta property="og:description" content="Spike-Timing-Dependent Plasticity (STDP) is a bio-inspired local incremental weight update rule commonly used for online learning in spike-based neuromorphic systems. In STDP, the intensity of long-term potentiation and depression in synaptic efficacy (weight) between neurons is expressed as a function of the relative timing between pre- and post-synaptic action potentials (spikes), while the polarity of change is dependent on the order (causality) of the spikes. Online STDP weight updates for causal and acausal relative spike times are activated at the onset of post- and pre-synaptic spike events, respectively, implying access to synaptic connectivity both in forward (pre-to-post) and reverse (post-to-pre) directions. Here we study the impact of different arrangements of synaptic connectivity tables on weight storage and STDP updates for large-scale neuromorphic systems. We analyze the memory efficiency for varying degrees of density in synaptic connectivity, ranging from crossbar arrays for full connectivity to pointer-based lookup for sparse connectivity. The study includes comparison of storage and access costs and efficiencies for each memory arrangement, along with a trade-off analysis of the benefits of each data structure depending on application requirements and budget. Finally, we present an alternative formulation of STDP via a delayed causal update mechanism that permits efficient weight access, requiring no more than forward connectivity lookup. We show functional equivalence of the delayed causal updates to the original STDP formulation, with substantial savings in storage and access costs and efficiencies for networks with sparse synaptic connectivity as typically encountered in large-scale models in computational neuroscience."><meta property="og:image" content="https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_box_2.png">
   <meta property="twitter:image" content="https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_box_2.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2020-04-06T21:48:26&#43;00:00">
+      <meta property="article:published_time" content="2020-04-29T17:50:07&#43;00:00">
     
     <meta property="article:modified_time" content="2019-01-01T00:00:00&#43;00:00">
   
@@ -261,14 +261,14 @@
     "@type": "WebPage",
     "@id": "https://eneftci.github.io/publication/pedroni-etal-19/"
   },
-  "headline": "Memory-Efficient Synaptic Connectivity for Spike-Timing-Dependent Plasticity",
+  "headline": "Memory-Efficient Synaptic Connectivity for Spike-Timing- Dependent Plasticity",
   
-  "datePublished": "2020-04-06T21:48:26Z",
+  "datePublished": "2020-04-29T17:50:07Z",
   "dateModified": "2019-01-01T00:00:00Z",
   
   "author": {
     "@type": "Person",
-    "name": "Bruno Umbria Pedroni"
+    "name": "Bruno U. Pedroni"
   },
   
   "publisher": {
@@ -279,7 +279,7 @@
       "url": "https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_192x192_fit_box_2.png"
     }
   },
-  "description": ""
+  "description": "Spike-Timing-Dependent Plasticity (STDP) is a bio-inspired local incremental weight update rule commonly used for online learning in spike-based neuromorphic systems. In STDP, the intensity of long-term potentiation and depression in synaptic efficacy (weight) between neurons is expressed as a function of the relative timing between pre- and post-synaptic action potentials (spikes), while the polarity of change is dependent on the order (causality) of the spikes. Online STDP weight updates for causal and acausal relative spike times are activated at the onset of post- and pre-synaptic spike events, respectively, implying access to synaptic connectivity both in forward (pre-to-post) and reverse (post-to-pre) directions. Here we study the impact of different arrangements of synaptic connectivity tables on weight storage and STDP updates for large-scale neuromorphic systems. We analyze the memory efficiency for varying degrees of density in synaptic connectivity, ranging from crossbar arrays for full connectivity to pointer-based lookup for sparse connectivity. The study includes comparison of storage and access costs and efficiencies for each memory arrangement, along with a trade-off analysis of the benefits of each data structure depending on application requirements and budget. Finally, we present an alternative formulation of STDP via a delayed causal update mechanism that permits efficient weight access, requiring no more than forward connectivity lookup. We show functional equivalence of the delayed causal updates to the original STDP formulation, with substantial savings in storage and access costs and efficiencies for networks with sparse synaptic connectivity as typically encountered in large-scale models in computational neuroscience."
 }
 </script>
 
@@ -297,7 +297,7 @@
 
 
 
-  <title>Memory-Efficient Synaptic Connectivity for Spike-Timing-Dependent Plasticity | NMI</title>
+  <title>Memory-Efficient Synaptic Connectivity for Spike-Timing- Dependent Plasticity | NMI</title>
 
 </head>
 
@@ -562,7 +562,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Memory-Efficient Synaptic Connectivity for Spike-Timing-Dependent Plasticity</h1>
+  <h1>Memory-Efficient Synaptic Connectivity for Spike-Timing- Dependent Plasticity</h1>
 
   
 
@@ -580,7 +580,7 @@
     
 
   
-  <span><a href="/authors/bruno-umbria-pedroni/">Bruno Umbria Pedroni</a></span>, <span><a href="/authors/siddharth-joshi/">Siddharth Joshi</a></span>, <span><a href="/authors/steve-deiss/">Steve Deiss</a></span>, <span><a href="/authors/sadique-sheik/">Sadique Sheik</a></span>, <span><a href="/authors/georgios-detorakis/">Georgios Detorakis</a></span>, <span><a href="/authors/somnath-paul/">Somnath Paul</a></span>, <span><a href="/authors/charles-augustine/">Charles Augustine</a></span>, <span><a href="/authors/emre-o-neftci/">Emre O Neftci</a></span>, <span><a href="/authors/gert-cauwenberghs/">Gert Cauwenberghs</a></span>
+  <span><a href="/authors/bruno-u.-pedroni/">Bruno U. Pedroni</a></span>, <span><a href="/authors/siddharth-joshi/">Siddharth Joshi</a></span>, <span><a href="/authors/stephen-r.-deiss/">Stephen R. Deiss</a></span>, <span><a href="/authors/sadique-sheik/">Sadique Sheik</a></span>, <span><a href="/authors/georgios-detorakis/">Georgios Detorakis</a></span>, <span><a href="/authors/somnath-paul/">Somnath Paul</a></span>, <span><a href="/authors/charles-augustine/">Charles Augustine</a></span>, <span><a href="/authors/emre-o.-neftci/">Emre O. Neftci</a></span>, <span><a href="/authors/gert-cauwenberghs/">Gert Cauwenberghs</a></span>
   </div>
   
   
@@ -641,7 +641,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://www.frontiersin.org/articles/10.3389/fnins.2019.00357/full" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://www.frontiersin.org/article/10.3389/fnins.2019.00357" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -664,6 +664,10 @@
 
 
 
+<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.3389/fnins.2019.00357" target="_blank" rel="noopener">
+  DOI
+</a>
+
 
 
 </div>
@@ -676,6 +680,9 @@
 
   <div class="article-container">
 
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Spike-Timing-Dependent Plasticity (STDP) is a bio-inspired local incremental weight update rule commonly used for online learning in spike-based neuromorphic systems. In STDP, the intensity of long-term potentiation and depression in synaptic efficacy (weight) between neurons is expressed as a function of the relative timing between pre- and post-synaptic action potentials (spikes), while the polarity of change is dependent on the order (causality) of the spikes. Online STDP weight updates for causal and acausal relative spike times are activated at the onset of post- and pre-synaptic spike events, respectively, implying access to synaptic connectivity both in forward (pre-to-post) and reverse (post-to-pre) directions. Here we study the impact of different arrangements of synaptic connectivity tables on weight storage and STDP updates for large-scale neuromorphic systems. We analyze the memory efficiency for varying degrees of density in synaptic connectivity, ranging from crossbar arrays for full connectivity to pointer-based lookup for sparse connectivity. The study includes comparison of storage and access costs and efficiencies for each memory arrangement, along with a trade-off analysis of the benefits of each data structure depending on application requirements and budget. Finally, we present an alternative formulation of STDP via a delayed causal update mechanism that permits efficient weight access, requiring no more than forward connectivity lookup. We show functional equivalence of the delayed causal updates to the original STDP formulation, with substantial savings in storage and access costs and efficiencies for networks with sparse synaptic connectivity as typically encountered in large-scale models in computational neuroscience.</p>
     
 
     
@@ -705,7 +712,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9"><em>Frontiers in neuroscience</em></div>
+          <div class="col-12 col-md-9"><em>Frontiers in Neuroscience</em></div>
         </div>
       </div>
       <div class="col-md-1"></div>

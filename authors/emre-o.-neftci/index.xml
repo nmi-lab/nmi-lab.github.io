@@ -5,12 +5,20 @@
     <link>https://eneftci.github.io/authors/emre-o.-neftci/</link>
       <atom:link href="https://eneftci.github.io/authors/emre-o.-neftci/index.xml" rel="self" type="application/rss+xml" />
     <description>Emre O. Neftci</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_box_2.png</url>
       <title>Emre O. Neftci</title>
       <link>https://eneftci.github.io/authors/emre-o.-neftci/</link>
     </image>
+    
+    <item>
+      <title>Memory-Efficient Synaptic Connectivity for Spike-Timing- Dependent Plasticity</title>
+      <link>https://eneftci.github.io/publication/pedroni-etal-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/pedroni-etal-19/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Data and Power Efficient Intelligence with Neuromorphic Learning Machines</title>
