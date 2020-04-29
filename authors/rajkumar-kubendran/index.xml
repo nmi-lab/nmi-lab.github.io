@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rajkumar Kubendran | NMI</title>
+    <link>https://eneftci.github.io/authors/rajkumar-kubendran/</link>
+      <atom:link href="https://eneftci.github.io/authors/rajkumar-kubendran/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rajkumar Kubendran</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_box_2.png</url>
+      <title>Rajkumar Kubendran</title>
+      <link>https://eneftci.github.io/authors/rajkumar-kubendran/</link>
+    </image>
+    
+    <item>
+      <title>High-Speed, Real-Time, Spike-Based Object Tracking and Path Prediction on Google Edge TPU</title>
+      <link>https://eneftci.github.io/publication/sengupta-etal-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/sengupta-etal-20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
