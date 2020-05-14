@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Learning in Spiking Neural Networks with the Tools of Deep Learning">
+  <meta name="description" content="A growing body of work underlines striking similarities between biological neural networks and recurrent, binary neural networks. A relatively smaller body of work, however, addresses the similarities between learning dynamics employed in deep artificial neural networks and synaptic plasticity in spiking neural networks. The challenge preventing this is largely caused by the discrepancy between the dynamical properties of synaptic plasticity and the requirements for gradient backpropagation. Learning algorithms that approximate gradient backpropagation using local error functions can overcome this challenge.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://eneftci.github.io/project/sgtheory/">
+  <link rel="alternate" hreflang="en-us" href="https://eneftci.github.io/post/kaiser_etal20_frontiers/">
 
   
 
@@ -215,7 +215,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu0c7d4e6f174165f8d68ac6ea8a7cc37e_1109_32x32_fill_box_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0c7d4e6f174165f8d68ac6ea8a7cc37e_1109_192x192_fill_box_center_2.png">
 
-  <link rel="canonical" href="https://eneftci.github.io/project/sgtheory/">
+  <link rel="canonical" href="https://eneftci.github.io/post/kaiser_etal20_frontiers/">
 
   
   
@@ -228,15 +228,15 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="NMI">
-  <meta property="og:url" content="https://eneftci.github.io/project/sgtheory/">
-  <meta property="og:title" content="Deep Continuous Local Learning | NMI">
-  <meta property="og:description" content="Learning in Spiking Neural Networks with the Tools of Deep Learning"><meta property="og:image" content="https://eneftci.github.io/project/sgtheory/featured.png">
-  <meta property="twitter:image" content="https://eneftci.github.io/project/sgtheory/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="https://eneftci.github.io/post/kaiser_etal20_frontiers/">
+  <meta property="og:title" content="New Article: Synaptic Plasticity Dynamics for Deep Continuous Local Learning (DECOLLE) | NMI">
+  <meta property="og:description" content="A growing body of work underlines striking similarities between biological neural networks and recurrent, binary neural networks. A relatively smaller body of work, however, addresses the similarities between learning dynamics employed in deep artificial neural networks and synaptic plasticity in spiking neural networks. The challenge preventing this is largely caused by the discrepancy between the dynamical properties of synaptic plasticity and the requirements for gradient backpropagation. Learning algorithms that approximate gradient backpropagation using local error functions can overcome this challenge."><meta property="og:image" content="https://eneftci.github.io/post/kaiser_etal20_frontiers/featured.jpg">
+  <meta property="twitter:image" content="https://eneftci.github.io/post/kaiser_etal20_frontiers/featured.jpg"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2016-04-27T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2020-05-12T17:21:59-07:00">
     
-    <meta property="article:modified_time" content="2016-04-27T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2020-05-12T17:21:59-07:00">
   
 
   
@@ -248,6 +248,8 @@
 
 
 
+
+  
 
 
 
@@ -255,19 +257,19 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "Article",
+  "@type": "BlogPosting",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://eneftci.github.io/project/sgtheory/"
+    "@id": "https://eneftci.github.io/post/kaiser_etal20_frontiers/"
   },
-  "headline": "Deep Continuous Local Learning",
+  "headline": "New Article: Synaptic Plasticity Dynamics for Deep Continuous Local Learning (DECOLLE)",
   
   "image": [
-    "https://eneftci.github.io/project/sgtheory/featured.png"
+    "https://eneftci.github.io/post/kaiser_etal20_frontiers/featured.jpg"
   ],
   
-  "datePublished": "2016-04-27T00:00:00Z",
-  "dateModified": "2016-04-27T00:00:00Z",
+  "datePublished": "2020-05-12T17:21:59-07:00",
+  "dateModified": "2020-05-12T17:21:59-07:00",
   
   "author": {
     "@type": "Person",
@@ -282,7 +284,7 @@
       "url": "https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_192x192_fit_box_2.png"
     }
   },
-  "description": "Learning in Spiking Neural Networks with the Tools of Deep Learning"
+  "description": "A growing body of work underlines striking similarities between biological neural networks and recurrent, binary neural networks. A relatively smaller body of work, however, addresses the similarities between learning dynamics employed in deep artificial neural networks and synaptic plasticity in spiking neural networks. The challenge preventing this is largely caused by the discrepancy between the dynamical properties of synaptic plasticity and the requirements for gradient backpropagation. Learning algorithms that approximate gradient backpropagation using local error functions can overcome this challenge."
 }
 </script>
 
@@ -300,7 +302,7 @@
 
 
 
-  <title>Deep Continuous Local Learning | NMI</title>
+  <title>New Article: Synaptic Plasticity Dynamics for Deep Continuous Local Learning (DECOLLE) | NMI</title>
 
 </head>
 
@@ -544,7 +546,7 @@
 </nav>
 
 
-  <article class="article article-project">
+  <article class="article">
 
   
 
@@ -574,147 +576,11 @@
 
 
 <div class="article-container pt-3">
-  <h1>Deep Continuous Local Learning</h1>
+  <h1>New Article: Synaptic Plasticity Dynamics for Deep Continuous Local Learning (DECOLLE)</h1>
 
   
 
   
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Apr 27, 2016
-  </span>
-  
-
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-</div>
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 259px;">
-  <div style="position: relative">
-    <img src="/project/sgtheory/featured_hudc069af5069875901a5ed02a39af2e27_124522_720x0_resize_box_2.png" alt="" class="featured-image">
-    <span class="article-header-caption">Neftci et al. 2016</span>
-  </div>
-</div>
-
-
-
-  <div class="article-container">
-
-    <div class="article-style">
-      <p>A growing body of work underlines striking similarities between biological neural networks and recurrent, binary neural networks. A relatively smaller body of work, however, addresses the similarities between learning dynamics employed in deep artificial neural networks and synaptic plasticity in spiking neural networks. The challenge preventing this is largely caused by the discrepancy between the dynamical properties of synaptic plasticity and the requirements for gradient backpropagation. Learning algorithms that approximate gradient backpropagation using local error functions can overcome this challenge. Here, we introduce Deep Continuous Local Learning (DECOLLE), a spiking neural network equipped with local error functions for online learning with no memory overhead for computing gradients. DECOLLE is capable of learning deep spatio-temporal representations from spikes relying solely on local information, making it compatible with neurobiology and neuromorphic hardware. Synaptic plasticity rules are derived systematically from user-defined cost functions and neural dynamics by leveraging existing autodifferentiation methods of machine learning frameworks. We benchmark our approach on the event-based neuromorphic dataset N-MNIST and DvsGesture, on which DECOLLE performs comparably to the state-of-the-art. DECOLLE networks provide continuously learning machines that are relevant to biology and supportive of event-based, low-power computer vision architectures matching the accuracies of conventional computers on tasks where temporal precision and speed are essential.</p>
-
-    </div>
-
-    
-
-
-
-
-
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="">Spiking Neural Networks</a>
-  
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-    <div class="project-related-pages content-widget-hr">
-      
-      
-
-      
-      
-      
-        <h2>Posts</h2>
-        
-          
-            
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/kaiser_etal20_frontiers/" >New Article: Synaptic Plasticity Dynamics for Deep Continuous Local Learning (DECOLLE)</a>
-    </h3>
-
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
 
 
 <div class="article-metadata">
@@ -750,27 +616,88 @@
 
 </div>
 
-      
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/sgtheory/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 181px;">
+  <div style="position: relative">
+    <img src="/post/kaiser_etal20_frontiers/featured_hu6963f47aaf9ad6f81518add04b4b5c5f_176675_720x0_resize_q100_box.jpg" alt="" class="featured-image">
+    <span class="article-header-caption">Dynamics for Deep Continuous Local Learning (DECOLLE)</span>
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>A growing body of work underlines striking similarities between biological neural networks and recurrent, binary neural networks. A relatively smaller body of work, however, addresses the similarities between learning dynamics employed in deep artificial neural networks and synaptic plasticity in spiking neural networks. The challenge preventing this is largely caused by the discrepancy between the dynamical properties of synaptic plasticity and the requirements for gradient backpropagation. Learning algorithms that approximate gradient backpropagation using local error functions can overcome this challenge. Here, we introduce Deep Continuous Local Learning (DECOLLE), a spiking neural network equipped with local error functions for online learning with no memory overhead for computing gradients. DECOLLE is capable of learning deep spatio temporal representations from spikes relying solely on local information, making it compatible with neurobiology and neuromorphic hardware. Synaptic plasticity rules are derived systematically from user-defined cost functions and neural dynamics by leveraging existing autodifferentiation methods of machine learning frameworks. We benchmark our approach on the event-based neuromorphic dataset N-MNIST and DvsGesture, on which DECOLLE performs comparably to the state-of-the-art. DECOLLE networks provide continuously learning machines that are relevant to biology and supportive of event-based, low-power computer vision architectures matching the accuracies of conventional computers on tasks where temporal precision and speed are essential.</p>
+<p>See <a href="https://www.frontiersin.org/articles/10.3389/fnins.2020.00424/full" >publication here </a>.</p>
+
     </div>
 
     
 
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/post/kaiser_etal20_frontiers/" >
-      <img src="/post/kaiser_etal20_frontiers/featured_hu6963f47aaf9ad6f81518add04b4b5c5f_176675_150x0_resize_q100_box.jpg" alt="">
-    </a>
-    
-  </div>
-</div>
 
-          
-        
-          
-            
+
+
+
+
+
 
 
 
@@ -784,87 +711,10 @@
 
 
   
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/post/neftci_etal19_spm/" >New Article: Signal Processing Magazine on Surrogate Gradient Learning</a>
-    </h3>
-
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
   
 
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Mar 13, 2020
-  </span>
-  
 
-  
 
-  
-  <span class="middot-divider"></span>
-  <span class="article-reading-time">
-    1 min read
-  </span>
-  
-
-  
-  
-  
-
-  
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/post/neftci_etal19_spm/" >
-      <img src="/post/neftci_etal19_spm/featured_huda63dbc6ac502b6e394ac4bb4dc3fcb7_52325_150x0_resize_q100_box.jpg" alt="">
-    </a>
-    
-  </div>
-</div>
-
-          
-        
-      
-
-      
-      
-      
-
-      
-      
-      
-    </div>
   </div>
 </article>
 
