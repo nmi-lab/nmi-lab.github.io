@@ -5,7 +5,7 @@
     <link>https://eneftci.github.io/</link>
       <atom:link href="https://eneftci.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>NMI</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_box_2.png</url>
       <title>NMI</title>
@@ -37,6 +37,14 @@
     </item>
     
     <item>
+      <title> Building a Better Lie Detector with BERT: The Difference Between Truth and Lies</title>
+      <link>https://eneftci.github.io/publication/barsever-etal-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/barsever-etal-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>New Article: Synaptic Plasticity Dynamics for Deep Continuous Local Learning (DECOLLE)</title>
       <link>https://eneftci.github.io/post/kaiser_etal20_frontiers/</link>
       <pubDate>Tue, 12 May 2020 17:21:59 -0700</pubDate>
@@ -47,10 +55,18 @@
     </item>
     
     <item>
-      <title>Synaptic Plasticity for Deep Continuous Local Learning</title>
-      <link>https://eneftci.github.io/publication/kaiser-etal-20/</link>
+      <title>Spiking Neural Network Learning, Benchmarking, Programming and Executing</title>
+      <link>https://eneftci.github.io/publication/li-etal-20/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://eneftci.github.io/publication/kaiser-etal-20/</guid>
+      <guid>https://eneftci.github.io/publication/li-etal-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synaptic Plasticity for Deep Continuous Local Learning</title>
+      <link>https://eneftci.github.io/publication/kaiser-etal-20-a/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/kaiser-etal-20-a/</guid>
       <description></description>
     </item>
     
@@ -91,6 +107,14 @@
     </item>
     
     <item>
+      <title>Embodied event-driven random backpropagation</title>
+      <link>https://eneftci.github.io/publication/kaiser-etal-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/kaiser-etal-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>High-Speed, Real-Time, Spike-Based Object Tracking and Path Prediction on Google Edge TPU</title>
       <link>https://eneftci.github.io/publication/sengupta-etal-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -124,9 +148,9 @@
     
     <item>
       <title>Spiking Neural Networks for Inference and Learning: A Memristor-based Design Perspective</title>
-      <link>https://eneftci.github.io/publication/fouda-etal-19/</link>
+      <link>https://eneftci.github.io/publication/fouda-etal-19-a/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://eneftci.github.io/publication/fouda-etal-19/</guid>
+      <guid>https://eneftci.github.io/publication/fouda-etal-19-a/</guid>
       <description></description>
     </item>
     
@@ -146,6 +170,14 @@
       <description>&lt;p&gt;Machine learning algorithms based on artificial neural networks significantly advanced our ability to solve human-centric cognitive tasks at or above human proficiency. Neuromorphic hardware that emulate the biological processes of the brain on a physical, electronic substrate are emerging as ultra low-power alternatives for performing such tasks where adaptability and autonomy are critical. However, neuromorphic hardware lacks general and efficient inference and learning models of the type that empower artificial neural networks, while being compatible with the spatial and temporal constraints of the brain. This research will bridge isolated fields of machine learning and neuromorphic engineering, and address the energetic and performance merits of computing under physical constraints on communication, precision, retention and failures. The solutions sought to meet these challenges will outline the principles for designing continuously learning hardware, resistant to soft errors and failures of future and emerging computing and memory technologies.This interdisciplinary effort will bring a multifaceted skill set to students and researchers alike, and impact many domains of embedded computing, such as brain implants for detecting and alleviating neurological conditions, implantable prosthetics, assistive robots capable of learning and performing human-level cognitive tasks, as well as defense and surveillance related workloads. To encourage young generations to this approach, the PI will 1) organize hands-on workshops, 2) initiate a student-driven project for developing educational tools targeted for teaching K-12 students the building blocks of spike-based deep learning, and 3) offer public video and lab-based courses on neuromorphic intelligence, including hands-on experiments with cutting edge neuromorphic hardware for students.&lt;/p&gt;
 &lt;p&gt;The proposed approach will study the stochastic nature of biological neurons and synapses to provide a blueprint for inference and learning machines compatible with the digital and mixed-signal neuromorphic hardware. The goals of this vertically-integrated project will be achieved by devising: 1) Spike-based algorithms guided by statistical machine learning theory that operate on information that is locally available to the underlying physical and neural processes that achieve or surpass the performance of equivalent learning algorithms in deep artificial neural networks; 2) Dedicated scalable neuromorphic hardware architectures for ultra low-power, continuously learning, which are key to adaptive behavior in embedded real-time behaving systems; 3) Rules governing the organization of attention and working memory in the brain using insights obtained from neural networks models equipped with dynamic feedback loops. In tandem with the breakthroughs in deep recurrent neural networks, this project aims to create unprecedented transfer of knowledge, sparking the foundations for novel computers that proactively interpret and learn from real-world data, solve novel problems using what they learned, and operate with the efficiency and proficiency of the human brain.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Memory-Efficient Synaptic Connectivity for Spike-Timing- Dependent Plasticity</title>
+      <link>https://eneftci.github.io/publication/pedroni-etal-19/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/pedroni-etal-19/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -181,6 +213,14 @@
     </item>
     
     <item>
+      <title>Effect of Asymmetric Nonlinearity Dynamics in RRAMs on Spiking Neural Network Performance</title>
+      <link>https://eneftci.github.io/publication/fouda-etal-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/fouda-etal-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Embodied event-driven random backpropagation</title>
       <link>https://eneftci.github.io/publication/kaiser-etal-19-a/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -201,14 +241,6 @@
       <link>https://eneftci.github.io/research/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://eneftci.github.io/research/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Memory-Efficient Synaptic Connectivity for Spike-Timing- Dependent Plasticity</title>
-      <link>https://eneftci.github.io/publication/pedroni-etal-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://eneftci.github.io/publication/pedroni-etal-19/</guid>
       <description></description>
     </item>
     

@@ -29,9 +29,33 @@
     </item>
     
     <item>
-      <title>Synaptic Plasticity for Deep Continuous Local Learning</title>
-      <link>https://eneftci.github.io/publication/kaiser-etal-20/</link>
+      <title> Building a Better Lie Detector with BERT: The Difference Between Truth and Lies</title>
+      <link>https://eneftci.github.io/publication/barsever-etal-20/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/barsever-etal-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spiking Neural Network Learning, Benchmarking, Programming and Executing</title>
+      <link>https://eneftci.github.io/publication/li-etal-20/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/li-etal-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synaptic Plasticity for Deep Continuous Local Learning</title>
+      <link>https://eneftci.github.io/publication/kaiser-etal-20-a/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/kaiser-etal-20-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embodied event-driven random backpropagation</title>
+      <link>https://eneftci.github.io/publication/kaiser-etal-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://eneftci.github.io/publication/kaiser-etal-20/</guid>
       <description></description>
     </item>
@@ -62,9 +86,9 @@
     
     <item>
       <title>Spiking Neural Networks for Inference and Learning: A Memristor-based Design Perspective</title>
-      <link>https://eneftci.github.io/publication/fouda-etal-19/</link>
+      <link>https://eneftci.github.io/publication/fouda-etal-19-a/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://eneftci.github.io/publication/fouda-etal-19/</guid>
+      <guid>https://eneftci.github.io/publication/fouda-etal-19-a/</guid>
       <description></description>
     </item>
     
@@ -73,6 +97,14 @@
       <link>https://eneftci.github.io/publication/neftci-etal-19/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://eneftci.github.io/publication/neftci-etal-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory-Efficient Synaptic Connectivity for Spike-Timing- Dependent Plasticity</title>
+      <link>https://eneftci.github.io/publication/pedroni-etal-19/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/pedroni-etal-19/</guid>
       <description></description>
     </item>
     
@@ -101,6 +133,14 @@
     </item>
     
     <item>
+      <title>Effect of Asymmetric Nonlinearity Dynamics in RRAMs on Spiking Neural Network Performance</title>
+      <link>https://eneftci.github.io/publication/fouda-etal-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/fouda-etal-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Embodied event-driven random backpropagation</title>
       <link>https://eneftci.github.io/publication/kaiser-etal-19-a/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -113,14 +153,6 @@
       <link>https://eneftci.github.io/publication/detorakis-etal-19-a/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://eneftci.github.io/publication/detorakis-etal-19-a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Memory-Efficient Synaptic Connectivity for Spike-Timing- Dependent Plasticity</title>
-      <link>https://eneftci.github.io/publication/pedroni-etal-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://eneftci.github.io/publication/pedroni-etal-19/</guid>
       <description></description>
     </item>
     
