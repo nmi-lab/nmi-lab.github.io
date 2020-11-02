@@ -37,6 +37,14 @@
     </item>
     
     <item>
+      <title>Terrain Classification with a Reservoir-Based Network of Spiking Neurons</title>
+      <link>https://eneftci.github.io/publication/zou-etal-20/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/zou-etal-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>High-Speed, Real-Time, Spike-Based Object Tracking and Path Prediction on Google Edge TPU</title>
       <link>https://eneftci.github.io/publication/sengupta-etal-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -53,17 +61,9 @@
     </item>
     
     <item>
-      <title>Terrain Classification with a Reservoir-Based Network of Spiking Neurons</title>
-      <link>https://eneftci.github.io/publication/zou-etal-20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://eneftci.github.io/publication/zou-etal-20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Effect of Asymmetric Nonlinearity Dynamics in RRAMs on Spiking Neural Network Performance</title>
       <link>https://eneftci.github.io/publication/fouda-etal-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>https://eneftci.github.io/publication/fouda-etal-19/</guid>
       <description></description>
     </item>

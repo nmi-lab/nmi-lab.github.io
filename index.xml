@@ -21,6 +21,22 @@
     </item>
     
     <item>
+      <title>Brain-Inspired Learning on Neuromorphic Substrates</title>
+      <link>https://eneftci.github.io/publication/zenke-neftci-20/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/zenke-neftci-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online Few-shot Gesture Learning on a Neuromorphic Processor</title>
+      <link>https://eneftci.github.io/publication/stewart-etal-20-a/</link>
+      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/stewart-etal-20-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PSYCH239: Neural Networks and Machine Learning</title>
       <link>https://eneftci.github.io/courses/psych239fq20/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
@@ -60,6 +76,14 @@
       <description>&lt;p&gt;A growing body of work underlines striking similarities between biological neural networks and recurrent, binary neural networks. A relatively smaller body of work, however, addresses the similarities between learning dynamics employed in deep artificial neural networks and synaptic plasticity in spiking neural networks. The challenge preventing this is largely caused by the discrepancy between the dynamical properties of synaptic plasticity and the requirements for gradient backpropagation. Learning algorithms that approximate gradient backpropagation using local error functions can overcome this challenge. Here, we introduce Deep Continuous Local Learning (DECOLLE), a spiking neural network equipped with local error functions for online learning with no memory overhead for computing gradients. DECOLLE is capable of learning deep spatio temporal representations from spikes relying solely on local information, making it compatible with neurobiology and neuromorphic hardware. Synaptic plasticity rules are derived systematically from user-defined cost functions and neural dynamics by leveraging existing autodifferentiation methods of machine learning frameworks. We benchmark our approach on the event-based neuromorphic dataset N-MNIST and DvsGesture, on which DECOLLE performs comparably to the state-of-the-art. DECOLLE networks provide continuously learning machines that are relevant to biology and supportive of event-based, low-power computer vision architectures matching the accuracies of conventional computers on tasks where temporal precision and speed are essential.&lt;/p&gt;
 &lt;p&gt;See &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fnins.2020.00424/full&#34; &gt;publication here &lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Terrain Classification with a Reservoir-Based Network of Spiking Neurons</title>
+      <link>https://eneftci.github.io/publication/zou-etal-20/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/zou-etal-20/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -147,18 +171,18 @@
     </item>
     
     <item>
-      <title>Terrain Classification with a Reservoir-Based Network of Spiking Neurons</title>
-      <link>https://eneftci.github.io/publication/zou-etal-20/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://eneftci.github.io/publication/zou-etal-20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Spiking Neural Networks for Inference and Learning: A Memristor-based Design Perspective</title>
       <link>https://eneftci.github.io/publication/fouda-etal-19-a/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       <guid>https://eneftci.github.io/publication/fouda-etal-19-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of Asymmetric Nonlinearity Dynamics in RRAMs on Spiking Neural Network Performance</title>
+      <link>https://eneftci.github.io/publication/fouda-etal-19/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/fouda-etal-19/</guid>
       <description></description>
     </item>
     
@@ -217,14 +241,6 @@
       <link>https://eneftci.github.io/publication/detorakis-etal-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://eneftci.github.io/publication/detorakis-etal-19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Effect of Asymmetric Nonlinearity Dynamics in RRAMs on Spiking Neural Network Performance</title>
-      <link>https://eneftci.github.io/publication/fouda-etal-19/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://eneftci.github.io/publication/fouda-etal-19/</guid>
       <description></description>
     </item>
     
