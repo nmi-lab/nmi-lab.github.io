@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NMI</title>
+    <link>https://eneftci.github.io/authors/nalonso/</link>
+      <atom:link href="https://eneftci.github.io/authors/nalonso/index.xml" rel="self" type="application/rss+xml" />
+    <description>NMI</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_box_2.png</url>
+      <title>NMI</title>
+      <link>https://eneftci.github.io/authors/nalonso/</link>
+    </image>
+    
+  </channel>
+</rss>
