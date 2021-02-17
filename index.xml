@@ -29,6 +29,16 @@
     </item>
     
     <item>
+      <title>New Article Proceedings of the IEEE on Brain-Inspired Learning on Neuromorphic Substrates</title>
+      <link>https://eneftci.github.io/post/zenke_neftci20/</link>
+      <pubDate>Sun, 06 Dec 2020 17:21:59 -0700</pubDate>
+      <guid>https://eneftci.github.io/post/zenke_neftci20/</guid>
+      <description>&lt;p&gt;Neuromorphic hardware strives to emulate brain-like neural networks and thus holds the promise for scalable, low-power information processing on temporal data streams. Yet, to solve real-world problems, these networks need to be trained. However, training on neuromorphic substrates creates significant challenges due to the offline character and the required nonlocal computations of gradient-based learning algorithms. This article provides a mathematical framework for the design of practical online learning algorithms for neuromorphic substrates. Specifically, we show a direct connection between RTRL, an online algorithm for computing gradients in conventional RNNs, and biologically plausible learning rules for training SNNs. Furthermore, we motivate a sparse approximation based on block-diagonal Jacobians, which reduces the algorithm&amp;rsquo;s computational complexity, diminishes the nonlocal information requirements, and empirically leads to good learning performance, thereby improving its applicability to neuromorphic substrates. In summary, our framework bridges the gap between synaptic plasticity and gradient-based approaches from deep learning and lays the foundations for powerful information processing on future neuromorphic hardware systems.&lt;/p&gt;
+&lt;p&gt;See &lt;a href=../../publication/zenke-neftci-21/ &gt;publication here &lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>On-Chip Error-Triggered Learning of Multi-Layer Memristive Spiking Neural Networks</title>
       <link>https://eneftci.github.io/publication/payvand-etal-20/</link>
       <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
