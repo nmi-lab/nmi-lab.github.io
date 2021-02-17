@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hesham Mostafa | NMI</title>
+    <link>https://eneftci.github.io/authors/hesham-mostafa/</link>
+      <atom:link href="https://eneftci.github.io/authors/hesham-mostafa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hesham Mostafa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_box_2.png</url>
+      <title>Hesham Mostafa</title>
+      <link>https://eneftci.github.io/authors/hesham-mostafa/</link>
+    </image>
+    
+    <item>
+      <title>Synaptic Plasticity Dynamics for Deep Continuous Local Learning (DECOLLE)</title>
+      <link>https://eneftci.github.io/publication/kaiser-etal-20-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/kaiser-etal-20-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

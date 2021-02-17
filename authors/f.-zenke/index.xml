@@ -5,12 +5,20 @@
     <link>https://eneftci.github.io/authors/f.-zenke/</link>
       <atom:link href="https://eneftci.github.io/authors/f.-zenke/index.xml" rel="self" type="application/rss+xml" />
     <description>F. Zenke</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_box_2.png</url>
       <title>F. Zenke</title>
       <link>https://eneftci.github.io/authors/f.-zenke/</link>
     </image>
+    
+    <item>
+      <title>Brain-Inspired Learning on Neuromorphic Substrates</title>
+      <link>https://eneftci.github.io/publication/zenke-neftci-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/zenke-neftci-21/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Surrogate Gradient Learning in Spiking Neural Networks: Bringing the Power of Gradient-Based Optimization to Spiking Neural Networks</title>

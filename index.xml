@@ -5,7 +5,7 @@
     <link>https://eneftci.github.io/</link>
       <atom:link href="https://eneftci.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>NMI</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_box_2.png</url>
       <title>NMI</title>
@@ -22,6 +22,22 @@
     
     <item>
       <title>Brain-Inspired Learning on Neuromorphic Substrates</title>
+      <link>https://eneftci.github.io/publication/zenke-neftci-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/zenke-neftci-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On-Chip Error-Triggered Learning of Multi-Layer Memristive Spiking Neural Networks</title>
+      <link>https://eneftci.github.io/publication/payvand-etal-20/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/payvand-etal-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brain-Inspired Learning on Neuromorphic Substrates</title>
       <link>https://eneftci.github.io/publication/zenke-neftci-20/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://eneftci.github.io/publication/zenke-neftci-20/</guid>
@@ -29,7 +45,7 @@
     </item>
     
     <item>
-      <title>Online Few-shot Gesture Learning on a Neuromorphic Processor</title>
+      <title>Online Few-Shot Gesture Learning on a Neuromorphic Processor</title>
       <link>https://eneftci.github.io/publication/stewart-etal-20-a/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
       <guid>https://eneftci.github.io/publication/stewart-etal-20-a/</guid>
@@ -54,17 +70,9 @@
     
     <item>
       <title>Error-triggered Three-Factor Learning Dynamics for Crossbar Arrays</title>
-      <link>https://eneftci.github.io/publication/payvand-etal-20/</link>
+      <link>https://eneftci.github.io/publication/payvand-etal-20-a/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://eneftci.github.io/publication/payvand-etal-20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title> Building a Better Lie Detector with BERT: The Difference Between Truth and Lies</title>
-      <link>https://eneftci.github.io/publication/barsever-etal-20/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://eneftci.github.io/publication/barsever-etal-20/</guid>
+      <guid>https://eneftci.github.io/publication/payvand-etal-20-a/</guid>
       <description></description>
     </item>
     
@@ -91,14 +99,6 @@
       <link>https://eneftci.github.io/publication/li-etal-20/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
       <guid>https://eneftci.github.io/publication/li-etal-20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Synaptic Plasticity for Deep Continuous Local Learning</title>
-      <link>https://eneftci.github.io/publication/kaiser-etal-20-a/</link>
-      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>https://eneftci.github.io/publication/kaiser-etal-20-a/</guid>
       <description></description>
     </item>
     
@@ -131,6 +131,14 @@
     </item>
     
     <item>
+      <title>Building a Better Lie Detector with BERT: The Difference Between Truth and Lies</title>
+      <link>https://eneftci.github.io/publication/barsever-etal-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/barsever-etal-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>https://eneftci.github.io/contact/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -139,7 +147,7 @@
     </item>
     
     <item>
-      <title>Embodied event-driven random backpropagation</title>
+      <title>Embodied Neuromorphic Vision with Continuous Random Backpropagation</title>
       <link>https://eneftci.github.io/publication/kaiser-etal-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://eneftci.github.io/publication/kaiser-etal-20/</guid>
@@ -155,7 +163,7 @@
     </item>
     
     <item>
-      <title>Memory Organization for Energy Efficient Learning and Inference in Digital Neuromorphic Accelerators</title>
+      <title>Memory organization for energy-efficient learning and inference in digital neuromorphic accelerators</title>
       <link>https://eneftci.github.io/publication/schaefer-etal-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://eneftci.github.io/publication/schaefer-etal-20/</guid>
@@ -167,6 +175,22 @@
       <link>https://eneftci.github.io/courses/psych239wq20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://eneftci.github.io/courses/psych239wq20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synaptic Plasticity Dynamics for Deep Continuous Local Learning (DECOLLE)</title>
+      <link>https://eneftci.github.io/publication/kaiser-etal-20-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/kaiser-etal-20-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero Velocity Detector for Foot-mounted Inertial Navigation System Assisted by a Dynamic Vision Sensor</title>
+      <link>https://eneftci.github.io/publication/jao-etal-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/jao-etal-20/</guid>
       <description></description>
     </item>
     

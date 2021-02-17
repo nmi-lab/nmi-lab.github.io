@@ -5,7 +5,7 @@
     <link>https://eneftci.github.io/authors/m.-payvand/</link>
       <atom:link href="https://eneftci.github.io/authors/m.-payvand/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Payvand</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eneftci.github.io/images/logo_hu7945e16b4c080225a93098c1772fbb4a_6934_300x300_fit_box_2.png</url>
       <title>M. Payvand</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>Error-triggered Three-Factor Learning Dynamics for Crossbar Arrays</title>
+      <title>On-Chip Error-Triggered Learning of Multi-Layer Memristive Spiking Neural Networks</title>
       <link>https://eneftci.github.io/publication/payvand-etal-20/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://eneftci.github.io/publication/payvand-etal-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Error-triggered Three-Factor Learning Dynamics for Crossbar Arrays</title>
+      <link>https://eneftci.github.io/publication/payvand-etal-20-a/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://eneftci.github.io/publication/payvand-etal-20-a/</guid>
       <description></description>
     </item>
     
